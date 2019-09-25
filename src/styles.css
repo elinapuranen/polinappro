@@ -1,0 +1,110 @@
+body {
+  font-family: arial, helvetica;
+  background: url("nettisivutausta.png") center center no-repeat;
+  background-size: 100%;
+  background-color: #2E417E;
+}
+
+h3 {
+  font-size: 5em;
+  text-align: center;
+  color: white;
+  font-weight: 700;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+}
+
+#section1 {
+  color: #fff;
+}
+
+#menu {
+  position: fixed;
+  text-align: center;
+  font-size: 18px;
+  font-family: 'ProximaNova Bold'; 
+  width: 100%;
+  height: 60px;
+  letter-spacing: 1px;
+  line-height: 60px;
+  top: 0;
+}
+
+li {
+  display: inline-block;
+  padding: 20px;
+  text-decoration: none;
+}
+
+li a {
+  color: white;
+  text-decoration: none;
+}
+
+li a:hover {
+  text-decoration: underline
+}
+
+.logos {
+  position: absolute;
+  top: 7%;
+  right: 2rem;
+}
+
+p {
+  color: white;
+  max-width: 600px;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+  font-family: 'ProximaNova Thin';
+}
+
+h3 {
+  font-size: 50px;
+  text-align: center;
+  line-height: 0;
+  font-family: 'ProximaNova Extrabold'
+}
+
+.container {
+  width: 65%;
+  max-width: 600px;
+  height: 50%;
+  margin: 0 auto;
+}
+
+.img {
+  max-width: 100%
+}
+
+@font-face {
+  font-family: 'ProximaNova Thin';
+  src: url(./fonts/Proxima_Nova_Thin.otf)
+}
+
+@font-face {
+  font-family: 'ProximaNova Bold';
+  src: url(./fonts/Proxima_Nova_Semibold.otf)
+}
+
+@font-face {
+  font-family: 'ProximaNova Extrabold';
+  src: url(./fonts/Proxima_Nova_Extrabold.otf)
+}
+
+@media (max-width: 900px) 
+ {
+   body {
+    background-image: url("puhelintausta.png");
+    background-size: 100%
+   }
+   li {
+     display: none;
+   }
+   .container {
+    width: 80%;
+    max-width: 600px;
+    height: 46%;
+    margin: 0 auto;
+   }
+ }
