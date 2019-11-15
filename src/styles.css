@@ -50,7 +50,7 @@ li a:hover {
   right: 2rem;
 }
 
-p {
+p, .link {
   color: white;
   max-width: 600px;
   margin-right: auto;
@@ -106,5 +106,8 @@ h3 {
     max-width: 600px;
     height: 46%;
     margin: 0 auto;
+   }
+   h3 {
+    font-size: 2.5em;
    }
  }

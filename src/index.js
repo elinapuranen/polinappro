@@ -48,10 +48,13 @@ function App() {
                 </div>
                 <div className="section">
                     <h3>{t('yleistä')}</h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                </div>
+                    <p>{t('yleistäteksti')}</p>  
+                  </div>
                 <div className="section">
                   <h3>{t('myynti')}</h3>
+                  <p>{t('lipunmyyntiteksti')}
+                  <a href="https://kide.app/events/99e6ec72-c9e6-48a3-96ff-0e48c1fe5e0d" class="link">kide.app</a>
+                  </p>
                 </div>
                 <div className="section">
                   <h3>{t('suoritustasot')}</h3>
@@ -61,15 +64,20 @@ function App() {
                 </div>
                 <div className="section">
                   <h3>{t('aikataulu')}</h3>
+                  <p>{t('aikatauluteksti')}</p>
                 </div>
                 <div className="section">
                   <h3>{t('esiintyjät')}</h3>
+                  <p>Pelle Miljoona & Rockers</p>
+                  <p>Citrus</p> 
                 </div>
                 <div className="section">
                   <h3>POLIN APPRO</h3>
+                  <p>{t('polinapproteksti')}</p>
                 </div>
                 <div className="section">
                   <h3>{t('kartta')}</h3>
+                  <p>TBA</p>
                 </div>
                 <div className="section">
                   <h3>{t('yhteys')}</h3>

@@ -1,6 +1,6 @@
 {
     "yleistä":"INFORMATION",
-    "liput": "TICKETS",
+    "liput":"TICKETS",
     "aikataulu": "SCHEDULE",
     "appro": "POLIN APPRO",
     "kartta": "MAP",
@@ -11,5 +11,9 @@
     "taso1": "7: Level 1",
     "taso2": "11: Level 2",
     "taso3": "15: Level 3",
-    "kysyttävää": "Do you have something to ask? Please get in touch with the Committee Chairperson, IE Director:"
+    "kysyttävää": "Do you have something to ask? Please get in touch with the Committee Chairperson, IE Director:",
+    "yleistäteksti": "This year, Polin Appro will journey through a hot desert full of refreshing oases and bedazzle, enchant and exhilarate the overall-wearing population more vigorously than ever! This legendary and Finland’s biggest bar crawl, led by Aalto people, brings together the whole overall-wearing population – all who are students and student-spirited. The Appro is organised during the Teekkari Tradition Week and takes place near the Vanha Poli building. At the Appro, participants collect performance stamps by visiting partnering bars. Based on the number of stamps collected during the evening, you will be awarded an overall badge at the afterparty. Take part in the fantastically hot Appro evening and dance to the top artists’ tune at the afterparty!",
+    "lipunmyyntiteksti": "Tickets can be bought from kide.app and the ticket costs 14€. The price includes the afterparty cloakroom fee. \n ",
+    "aikatauluteksti": "The teams depart gradually between 16.00 - 19.00 from DTM (Mannerheimintie 6b) and have until 11pm to finish the crawl. The after party starts at Apollo Live Club (Mannerheimintie 16) at 9pm.",
+    "polinapproteksti": "Polin Appro is a legendary pub crawl in the city centre of Helsinki, organized by the Hosts and Hostesses (IE) of the Aalto University Student Union. The pub crawl is located around Vanha Poli, the origins of engineering students, limiting the area from Punavuori to Kamppi. This year the pub crawl is organized for the eighth time. In all the previous years, the party has been incredible when a crowd of students and student-minded people regardless of their degree have taken over the streets of Helsinki. Unlike other pub crawls, Polin Appro changes every year. This year the theme of Polin appro is DESERT, so we recommend you to prepare for a hot night!"
   } 
